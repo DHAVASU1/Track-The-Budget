@@ -1,0 +1,6 @@
+## DHAVASU1 ##
+
+customtkinter==5.2.2
+matplotlib==3.9.2
+numpy==2.1.2
+bcrypt
